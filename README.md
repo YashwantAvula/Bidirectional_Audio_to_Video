@@ -2,7 +2,7 @@
 Bidirectional Audio to Video Encoding 
 
 
-# 🎵 Audio2Visual: Reversible Audio-Visualizer using STFT and OpenL3
+#  Audio To Visual: Reversible Audio-Visualizer using STFT and OpenL3
 
 **Audio2Visual** is a Python-based pipeline that converts full-length audio into high-fidelity visual representations (video frames or embeddings), with full support for **reconstructing the original audio** from the visuals. It also supports **semantic visualizations** using OpenL3 embeddings for creative or analytical purposes.
 
